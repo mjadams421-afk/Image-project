@@ -1,8 +1,14 @@
+
 #article{
   color: blue;
   background-color: green;
+  font-size: 100px;
   display: inline-block;
   width: 350px;
   border: 2px black dotted;
 }
 
+#article:hover {
+width: 350px;
+float: left;
+}
