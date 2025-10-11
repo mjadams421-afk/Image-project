@@ -1,6 +1,8 @@
 #article{
   color: blue;
   background-color: green;
-  display: block;
+  display: inline-block;
+  width: 350px;
   border: 2px black dotted;
 }
+
