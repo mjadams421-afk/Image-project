@@ -1,15 +1,19 @@
 
-#images{
+#text {
   color: blue;
   background-color: green;
   font-size: 100px;
+}
+#images {
   display: inline-block;
   width: 350px;
-  border: 2px black dotted;
 }
-
-#images:hover {
-width: 350px;
-float: left;
+#border {
+  border: 5px black dotted;
+}
+footer {
+font-size: 100px;
+color: green;
+background-color: blue;
 }
 
