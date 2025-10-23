@@ -4,10 +4,7 @@
   background-color: green;
   font-size: 100px;
 }
-#images {
-  display: inline-block;
-  width: 350px;
-}
+
 #border {
   border: 5px black dotted;
 }
