@@ -43,12 +43,25 @@ article {
 }
 
 footer {
-color: white;
-font-size: 50px;
-font-family: Arial, Helvetica, sans-serif;
-background-color: black;
-margin: 0px;
-padding: 0px;
-border: 0px;
+ color: white;
+ font-size: 50px;
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: black;
+ margin: 0px;
+ padding: 0px;
+ border: 0px;
 }
 
+/*other images*/
+
+articleA {
+ display: flex;
+ height: auto;
+ border: 10px dotted black;
+}
+
+articleA divA, divB, divC {
+ display: flex;
+ height: auto;
+ border: 10px dotted black;
+}
