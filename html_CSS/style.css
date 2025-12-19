@@ -56,12 +56,27 @@ footer {
 
 articleA {
  display: flex;
+ width: 100%;
  height: auto;
  border: 10px dotted black;
+ flex-flow: column wrap;
 }
 
-articleA divA, divB, divC {
+articleA divA {
  display: flex;
+ width: 100%;
  height: auto;
- border: 10px dotted black;
+ border: 2px solid black;
+}
+articleA divB {
+ display: flex;
+ width: 100%;
+ height: auto;
+ border: 2px solid blue;
+}
+articleA divC {
+ display: flex;
+ width: 100%;
+ height: auto;
+ border: 2px solid blue;
 }
