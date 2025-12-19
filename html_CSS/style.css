@@ -67,16 +67,30 @@ articleA divA {
  width: 100%;
  height: auto;
  border: 2px solid black;
+ transition: height 1s linear 300ms;
 }
 articleA divB {
  display: flex;
  width: 100%;
  height: auto;
  border: 2px solid blue;
+ transition: height 1s linear 300ms;
 }
 articleA divC {
  display: flex;
  width: 100%;
  height: auto;
  border: 2px solid blue;
+ transition: height 1s linear 300ms;
+}
+articleA divD {
+ display: flex;
+ width: 100%;
+ height: auto;
+ border: 2px solid blue;
+ transition: height 1s linear 300ms;
+}
+
+.imagesAA:active, .imagesBB:active, .imagesCC:active, .imagesDD:active {
+ height: 1200px;
 }
