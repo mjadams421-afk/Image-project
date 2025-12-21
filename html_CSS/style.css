@@ -63,38 +63,51 @@ articleA {
 }
 
 articleA divA {
- display: flex;
- width: 100%;
+ display: inline-flex;
+ width: 50%;
  height: auto;
  border: 2px solid black;
  transition: width 1s linear 300ms;
 }
 articleA divB {
- display: flex;
- width: 100%;
+ display: inline-flex;
+ width: 50%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divC {
- display: flex;
- width: 100%;
+ display: inline-flex;
+ width: 50%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divD {
- display: flex;
- width: 100%;
+ display: inline-flex;
+ width: 50%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divE {
- display: flex;
- width: 100%;
+ display: inline-flex;
+ width: 50%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
-
+articleA divF {
+ display: inline-flex;
+ width: 50%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+articleA divG {
+ display: inline-flex;
+ width: 50%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
