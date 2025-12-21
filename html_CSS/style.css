@@ -58,7 +58,7 @@ articleA {
  display: inline-flex;
  width: 100%;
  height: auto;
- border: 2px dotted black;
+ border: 2px solid black;
  flex-flow: column wrap;
 }
 
@@ -66,7 +66,7 @@ articleA divA {
  display: inline-flex;
  width: 40%;
  height: auto;
- border: 2px solid black;
+ border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divB {
