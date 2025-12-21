@@ -55,58 +55,58 @@ footer {
 /*other images*/
 
 articleA {
- display: flex;
+ display: inline-flex;
  width: 100%;
  height: auto;
- border: 10px dotted black;
+ border: 2px dotted black;
  flex-flow: column wrap;
 }
 
 articleA divA {
  display: inline-flex;
- width: 50%;
+ width: 40%;
  height: auto;
  border: 2px solid black;
  transition: width 1s linear 300ms;
 }
 articleA divB {
  display: inline-flex;
- width: 50%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divC {
  display: inline-flex;
- width: 50%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divD {
  display: inline-flex;
- width: 50%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divE {
  display: inline-flex;
- width: 50%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divF {
  display: inline-flex;
- width: 50%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divG {
  display: inline-flex;
- width: 50%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
