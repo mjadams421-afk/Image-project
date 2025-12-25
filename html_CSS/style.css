@@ -111,3 +111,35 @@ articleA divG {
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
+
+articleA divH {
+ display: inline-flex;
+ width: 50%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+
+articleA divI {
+ display: inline-flex;
+ width: 50%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+
+articleA divJ {
+ display: inline-flex;
+ width: 50%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+
+articleA divK {
+ display: inline-flex;
+ width: 50%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
