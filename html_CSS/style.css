@@ -143,3 +143,8 @@ articleA divK {
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
+
+.imagesAA:active,.imagesBB:active,.imagesCC:active,.imagesDD:active,.imagesEE:active,.imagesFF:active,
+.imagesGG:active,.imagesHH:active,.imagesII:active,.imagesJJ:active,.imagesKK:active {
+ width: 100%;
+}
