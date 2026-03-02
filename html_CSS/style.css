@@ -58,6 +58,8 @@ articleA {
  display: inline-flex;
  width: 100%;
  height: auto;
+ display: grid;
+ place-items: center
  border: 2px solid black;
  flex-flow: column wrap;
 }
@@ -66,6 +68,8 @@ articleA divA {
  display: inline-flex;
  width: 65%;
  height: auto;
+ display: grid;
+ place-items: center
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
@@ -147,4 +151,5 @@ articleA divK {
 .imagesAA:active,.imagesBB:active,.imagesCC:active,.imagesDD:active,.imagesEE:active,.imagesFF:active,
 .imagesGG:active,.imagesHH:active,.imagesII:active,.imagesJJ:active,.imagesKK:active {
  width: 100%;
+ box-shadow: 0 0 4px 2px rgba(125, 40, 186, 0.5);
 }
