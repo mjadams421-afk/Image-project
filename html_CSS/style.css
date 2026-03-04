@@ -59,90 +59,78 @@ articleA {
  width: 100%;
  height: auto;
  display: grid;
- place-items: center
+ grid-template-columns: 1fr 1fr;
  border: 2px solid black;
  flex-flow: column wrap;
+ background-color: rgba(20,20,80,.8);
 }
 
 articleA divA {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
- display: grid;
- place-items: center
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divB {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divC {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divD {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divE {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divF {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divG {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 
 articleA divH {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 
 articleA divI {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 
 articleA divJ {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 
 articleA divK {
- display: inline-flex;
- width: 65%;
+ width: 40%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
