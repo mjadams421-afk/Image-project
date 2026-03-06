@@ -122,13 +122,13 @@ articleA divI {
  transition: width 1s linear 300ms;
 }
 
-/*articleA divJ {
+articleA divJ {
  width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
-
+/*
 articleA divL {
  width: 100%;
  height: auto;
@@ -154,7 +154,7 @@ articleA divO {
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
- */
+*/
 articleA divK {
  width: 100%;
  height: auto;
