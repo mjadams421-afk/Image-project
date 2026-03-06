@@ -66,78 +66,101 @@ articleA {
 }
 
 articleA divA {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divB {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divC {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divD {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divE {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divF {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 articleA divG {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 
 articleA divH {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 
 articleA divI {
- width: 60%;
+ width: 100%;
  height: auto;
  border: 2px solid blue;
  transition: width 1s linear 300ms;
 }
 
 articleA divJ {
- width: 60%;
- height: auto;
- border: 2px solid blue;
- transition: width 1s linear 300ms;
-}
-
-articleA divK {
- width: 60%;
- height: auto;
- border: 2px solid blue;
- transition: width 1s linear 300ms;
-}
-
-.imagesAA:active,.imagesBB:active,.imagesCC:active,.imagesDD:active,.imagesEE:active,.imagesFF:active,
-.imagesGG:active,.imagesHH:active,.imagesII:active,.imagesJJ:active,.imagesKK:active {
  width: 100%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+
+articleA divL {
+ width: 100%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+
+articleA divM {
+ width: 100%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+articleA divN {
+ width: 100%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+articleA divO {
+ width: 100%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+articleA divK {
+ width: 100%;
+ height: auto;
+ border: 2px solid blue;
+ transition: width 1s linear 300ms;
+}
+.imagesAA:active,.imagesBB:active,.imagesCC:active,.imagesDD:active,.imagesEE:active,.imagesFF:active,
+.imagesGG:active,.imagesHH:active,.imagesII:active,.imagesJJ:active,.imagesKK:active,.imagesLL:active {
  box-shadow: 0 0 4px 2px rgba(125, 40, 186, 0.5);
 }
